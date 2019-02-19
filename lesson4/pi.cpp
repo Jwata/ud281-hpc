@@ -26,4 +26,5 @@ int main() {
   printf("circle points = %d\n", cnt);
   double pi = 4.0 * cnt / N;
   printf("pi = %f\n", pi);
+  return 0;
 }
